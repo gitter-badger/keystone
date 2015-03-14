@@ -1,6 +1,8 @@
 ![KeystoneJS](http://keystonejs.com/images/logo.svg)
 ===================================
 
+[![Join the chat at https://gitter.im/prachaquant/keystone](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/prachaquant/keystone?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Build Status](https://travis-ci.org/JedWatson/keystone.svg)
 
 [KeystoneJS](http://keystonejs.com) is a powerful new Node.js content management system and web app framework built on [express](http://expressjs.com) and [mongoose](http://mongoosejs.com) that makes it easy to create sophisticated web sites and apps, and gives you a beautiful, auto-generated Admin UI.
